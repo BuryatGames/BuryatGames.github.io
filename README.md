@@ -1,5 +1,5 @@
-# BuryatGames.github.io
-Buryat > Privacy Policy
+BuryatGames.github.io
+
 Buryat built the Buryat app as a Free app. This SERVICE is provided by Buryat at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
